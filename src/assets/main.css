@@ -1,0 +1,9 @@
+@import "colors.css";
+
+body {
+  margin: 0px;
+  font-size: 16px;
+  height: 100vh;
+  background-color: var(--secondary-background-color);
+  color: var(--font-color);
+}
